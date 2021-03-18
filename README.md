@@ -1,8 +1,6 @@
 Hi github users 👋
 
- 
-![image](https://user-images.githubusercontent.com/76608233/111705107-76f53d00-8840-11eb-9b79-2fac72ec76a8.png)
 
-
+![XD](https://user-images.githubusercontent.com/76608233/111705165-9724fc00-8840-11eb-8d6e-c568082c31ad.PNG)
 
 About Me 📝
