@@ -9,5 +9,6 @@ I am from spain, and i enjoy helping people and making Software.
 -
 Im focusing on learn more Java & Python searching to do the best resources
 And helping people that doesn't know.
+Currently im working on RedeDark, NullCordX, SternalBoard, DarkCore.
 -
-#CONTACT ME - xIsm4#9127
+#CONTACT ME - xIsm4 $avage#9127
