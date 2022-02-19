@@ -5,7 +5,6 @@ Hi github users 👋
 #WHO I AM
 -
 I am from spain, actually i enjoy by making Software.
-#ABOUT ME
 -
 Im interested & stacked on CyberSecurity (On minecraft)
 -
