@@ -8,4 +8,12 @@ I am from spain, actually i enjoy by making Software.
 -
 Im interested & stacked on CyberSecurity (On minecraft)
 -
+
+<h3 align="center">Stats</h3>
+
+[![xIsm4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xIsm4&show_icons=true&theme=merko)](https://github.com/xIsm4/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xIsm4&layout=compact&theme=tokyonight)](https://github.com/xIsm4/)
+
+
+[![xIsm4's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=xIsm4.readme.visitor-badge)](https://github.com/xIsm4/) 
+
 #CONTACT ME - xIsm4#9127
