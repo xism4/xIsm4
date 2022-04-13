@@ -6,7 +6,8 @@ Hello, my name is Ismael and I am 16 years old.
 
 I have knowledge in java, python and cybersecurity.
 
-I am currently involved in projects such as (https://github.com/cosmogrp)
+I am currently involved in projects such as SternalBoard, NullExploitX, CosmoGroup and few minecraft servers.
+I can help you to solve attacks on your minecraft server.
 
 <h3 align="center">Stats</h3>
 
