@@ -2,12 +2,9 @@ Hi github users 👋
 
 ![XD](https://user-images.githubusercontent.com/76608233/111705165-9724fc00-8840-11eb-8d6e-c568082c31ad.PNG)
 
-#WHO I AM
--
-I am from spain, actually i enjoy by making Software.
--
-Im interested & stacked on CyberSecurity (On minecraft)
--
+Hello, my name is Ismael and I am 16 years old.
+
+I have knowledge in java, python and cybersecurity.
 
 <h3 align="center">Stats</h3>
 
