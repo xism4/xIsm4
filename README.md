@@ -6,9 +6,9 @@ Hello! My name is Ismael and I am 16 years old, and im from Spain
 
 I really enjoy making software, mostly on Java, python and learning CyberSecurity.
 
-I am currently CEO of ShieldCommunity * [ShieldCommunity](https://github.com/ShieldCommunity) 
+I am currently CEO of [ShieldCommunity](https://github.com/ShieldCommunity), developer of [CosmoGroup](https://github.com/cosmogrp) and doing stuff on some cool Minecraft servers.
 
-I can help you to solve attacks on your minecraft server.
+Also, i can help you solving attacks on any type of software (specially on Minecraft)
 
 <h3 align="center">Stats</h3>
 
