@@ -8,7 +8,8 @@ I really enjoy making software, mostly on Java, python and learning CyberSecurit
 
 I am currently CEO of [ShieldCommunity](https://github.com/ShieldCommunity), developer of [CosmoGroup](https://github.com/cosmogrp) and doing stuff on some cool Minecraft servers.
 
-Also, i can help you solving attacks on any type of software (specially on Minecraft)
+Also im Developer of [NullCordX](https://www.mc-market.org/resources/22322/) & founder of [SternalBoard](https://www.spigotmc.org/resources/sternalboard-lightweight-animated-scoreboard.89245/)
+You can feel free to contact me if you're getting attacked, can help you solving attacks on any type of software (specially on Minecraft)
 
 <h3 align="center">Stats</h3>
 
