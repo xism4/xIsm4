@@ -2,11 +2,11 @@ Hi github users 👋
 
 ![XD](https://user-images.githubusercontent.com/76608233/111705165-9724fc00-8840-11eb-8d6e-c568082c31ad.PNG)
 
-Hello, my name is Ismael and I am 16 years old.
+Hello! My name is Ismael and I am 16 years old, and im from Spain
 
-I have knowledge in java, python and cybersecurity.
+I really enjoy making software, mostly on Java, python and learning CyberSecurity.
 
-I am currently involved in projects such as SternalBoard, NullExploitX, CosmoGroup and few minecraft servers.
+I am currently CEO of ShieldCommunity * [ShieldCommunity](https://github.com/ShieldCommunity) 
 
 I can help you to solve attacks on your minecraft server.
 
