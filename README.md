@@ -19,4 +19,8 @@ You can feel free to contact me if you're getting attacked, can help you solving
 
 [![xIsm4's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=xIsm4.readme.visitor-badge)](https://github.com/xIsm4/) 
 
+
+📫 E-mail contact: xism4@shieldcommunity.net
+💬 ShieldCommunity Discord (https://discord.gg/HhFxScZWAT)
+
 You can contact me trougth Discord: xIsm4#9127
