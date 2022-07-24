@@ -4,16 +4,7 @@ Hi github users 👋
 
 Hello! My name is Ismael, im 17y old and actually im living on Spain
 
-I really enjoy making software, mostly on Java, python and learning CyberSecurity.
-
 I am currently Developer of [ShieldCommunity](https://github.com/ShieldCommunity), [CosmoGroup](https://github.com/cosmogrp) and doing stuff on some cool Minecraft servers.
-
-You can feel free to contact me if you're getting attacked, can help you solving attacks on any type of software (specially on Minecraft)
-
-Do you like what i hear?
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=el_babu_omg&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<h3 align="center">Stats</h3>
 
 [![xIsm4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xIsm4&show_icons=true&theme=merko)](https://github.com/xIsm4/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xIsm4&layout=compact&theme=tokyonight)](https://github.com/xIsm4/)
 
@@ -24,3 +15,8 @@ Do you like what i hear?
 📫 E-mail contact: xism4@shieldcommunity.net
 
 💬 ShieldCommunity Discord (https://discord.gg/HhFxScZWAT)
+
+🎶 Do you like what i hear?
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=el_babu_omg&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<h3 align="center">Stats</h3>
