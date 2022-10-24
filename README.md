@@ -24,7 +24,7 @@ I am currently Developer on [ShieldCommunity](https://github.com/ShieldCommunity
 - Linux Performance Monitoring & Analysis
 - Experienced on secure servers (Linux, Minecraft/all)
 - Spigot, BungeeCord & Velocity managment API
-- Netty, Nmap, Iptables..
+- Netty, Nmap, Iptables, Gradle/Maven
 
 📫 E-mail contact: xism4@shieldcommunity.net
 📞 Discord: xIsm4#9127
