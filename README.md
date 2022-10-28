@@ -7,6 +7,7 @@ Hi github users 👋
 I study cibersecurity on https://www.murciaeduca.es/ieselcarmen/, hope you join with me ;)
 
 I am currently Developer on [ShieldCommunity](https://github.com/ShieldCommunity)
+Admin on [NectarHost](https://discord.gg/FzGuxqkWNa)
 
 ❤ Some of my proyects:
 - NullCordX
