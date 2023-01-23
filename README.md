@@ -1,6 +1,8 @@
 Hi github users 👋
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 💥 Hello! My name is Ismael Hanbel, im from Spain.
 
