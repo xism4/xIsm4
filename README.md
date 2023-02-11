@@ -1,7 +1,7 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-💥 Hello! My name is Ismael Hanbel, im from Spain.
+💥 Hello! My name is Ismael, im from Spain.
 
 I study cibersecurity on https://www.murciaeduca.es/ieselcarmen/, hope you join with me ;)
 
