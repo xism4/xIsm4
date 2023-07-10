@@ -3,8 +3,6 @@
 
 💥 Hello! My name is Ismael, im from Spain.
 
-I study cibersecurity on https://www.murciaeduca.es/ieselcarmen/, hope you join with me ;)
-
 I am currently Developer on [ShieldCommunity](https://github.com/ShieldCommunity)
 and Admin on [NectarHost](https://discord.gg/FzGuxqkWNa)
 
@@ -20,19 +18,13 @@ and Admin on [NectarHost](https://discord.gg/FzGuxqkWNa)
 - Sys admin
 - Java (Experienced on Android)
 - Python3
-- Experienced on CyberSecurity (Mostly Minecraft)
+- Experienced on Networking
 - Linux Performance Monitoring & Analysis
-- Experienced on secure servers (Linux, Minecraft/all)
 - Spigot, BungeeCord & Velocity managment API
 - Netty, Nmap, Iptables, Gradle/Maven
 
 📫 E-mail contact: xism4@shieldcommunity.net
-📞 Discord: xIsm4#9127
-
-🥊 My free time:
-Interested in what I do in my free time? No?!, I'll tell you anyway =(
-
-I usually do kick-boxing, which is a contact sport that relieves me and helps me to improve all the time.
+📞 Discord: xism4#9127
 
 [![xIsm4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xIsm4&show_icons=true&theme=merko)](https://github.com/xIsm4/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xIsm4&layout=compact&theme=tokyonight)](https://github.com/xIsm4/)
 
