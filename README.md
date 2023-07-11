@@ -15,13 +15,12 @@ and Admin on [NectarHost](https://discord.gg/FzGuxqkWNa)
 - SternalBoard
 
 😈 Some of my skills and knowledge:
-- Sys admin
-- Java (Experienced on Android)
+- Java experienced on Android and POO
 - Python3
 - Experienced on Networking
 - Linux Performance Monitoring & Analysis
 - Spigot, BungeeCord & Velocity managment API
-- Netty, Nmap, Iptables, Gradle/Maven
+- Netty, Nmap, Iptables, XDP-f, Gradle/Maven
 
 📫 E-mail contact: xism4@shieldcommunity.net
 📞 Discord: xism4#9127
