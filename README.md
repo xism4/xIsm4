@@ -3,7 +3,7 @@
 
 💥 Hello! My name is Ismael, im from Spain.
 
-I am currently Developer on [ShieldCommunity](https://github.com/ShieldCommunity)
+Electromechanic and sometimes CS GO player
 and Admin on [NectarHost](https://discord.gg/FzGuxqkWNa)
 
 ❤ Some of my proyects:
