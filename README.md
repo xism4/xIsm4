@@ -3,8 +3,7 @@
 
 💥 Hello! My name is Ismael, im from Spain.
 
-Electromechanic and sometimes CS GO player
-and Admin on [NectarHost](https://discord.gg/FzGuxqkWNa)
+Electromechanic and sometimes cs2 player
 
 ❤ Some of my proyects:
 - NullCordX
@@ -28,8 +27,3 @@ and Admin on [NectarHost](https://discord.gg/FzGuxqkWNa)
 [![xIsm4's GitHub stats](https://github-readme-stats.vercel.app/api?username=xIsm4&show_icons=true&theme=merko)](https://github.com/xIsm4/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xIsm4&layout=compact&theme=tokyonight)](https://github.com/xIsm4/)
 
 [![xIsm4's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=xIsm4.readme.visitor-badge)](https://github.com/xIsm4/) 
-
-🎶 Do you like what i hear?
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bdewbd2pimzlhhifnqumxwlhum&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<h3 align="center">Stats</h3>
