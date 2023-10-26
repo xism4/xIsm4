@@ -7,13 +7,13 @@ Soy un optimista, no tiene mucho sentido ser otra cosa (W.Churchill)
 
 Electricista y a veces jugador del cs2
 
-❤ Some of my proyects:
+❤ Proyectos conocidos:
 - NullCordX
+- SternalBoard
 - ShieldSpigot
 - ShieldMotd
 - ShieldHub
 - Nmap scanner
-- SternalBoard
 
 😈 Some of my skills and knowledge:
 - Java experienced on Android and POO
