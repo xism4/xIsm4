@@ -15,7 +15,7 @@ Electricista y a veces jugador del cs2
 - ShieldHub
 - Nmap scanner
 
-😈 Some of my skills and knowledge:
+😈 Skills:
 - Java experienced on Android and POO
 - Python3
 - Experienced on Networking
