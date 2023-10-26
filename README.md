@@ -1,9 +1,11 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-💥 Hello! My name is Ismael, im from Spain.
+💥 Hola! Soy Ismael mas conocido como "xism4"
 
-Electromechanic and sometimes cs2 player
+Soy un optimista, no tiene mucho sentido ser otra cosa (W.Churchill) 
+
+Electricista y a veces jugador del cs2
 
 ❤ Some of my proyects:
 - NullCordX
