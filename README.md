@@ -17,6 +17,7 @@ Electricista y a veces jugador del cs2
 
 😈 Skills:
 - Java experienced on Android and POO
+- OVH dedicated server managment, setup etc
 - Python3
 - Experienced on Networking
 - Linux Performance Monitoring & Analysis
