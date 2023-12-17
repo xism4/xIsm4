@@ -1,9 +1,7 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-💥 Hola! Soy Ismael mas conocido como "xism4"
-
-Soy un optimista, no tiene mucho sentido ser otra cosa (W.Churchill) 
+💥 Hola! Soy Ismael
 
 Electricista y a veces jugador del cs2
 
