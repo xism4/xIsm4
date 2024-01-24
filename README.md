@@ -3,25 +3,6 @@
 
 💥 Hola! Soy Ismael
 
-Electricista y a veces jugador del cs2
-
-❤ Proyectos conocidos:
-- NullCordX
-- SternalBoard
-- ShieldSpigot
-- ShieldMotd
-- ShieldHub
-- Nmap scanner
-
-😈 Skills:
-- Java experienced on Android and POO
-- OVH dedicated server managment, setup etc
-- Python3
-- Experienced on Networking
-- Linux Performance Monitoring & Analysis
-- Spigot, BungeeCord & Velocity managment API
-- Netty, Nmap, Iptables, XDP-f, Gradle/Maven
-
 📫 E-mail contact: xism4@shieldcommunity.net
 📞 Discord: xism4#9127
 
