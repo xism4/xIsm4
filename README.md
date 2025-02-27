@@ -3,6 +3,12 @@
 
 <a href=#><img src="contributions.svg"></a>
 
+Skills: 
+- Java, Kotlin, Netty and Python
+- Practically all libs
+- SQL, NoSQL
+- Sys Admin and XDP firewall
+
 📫 E-mail contact: xism4@shieldcommunity.net
 📞 Discord: xism4
 
